@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00A7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Julian!;Data+Analyst+%F0%9F%93%8A;Always+Learning+%F0%9F%8E%93" />
+  </a>
+</p>
 
 <!--
 **JOrtiz1898/JOrtiz1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
