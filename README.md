@@ -4,6 +4,35 @@
   </a>
 </p>
 
+---
+
+### 👋 About Me
+Data Analyst with a passion for discovering insights, solving problems, and presenting data through clean and impactful visualizations.
+
+- 🧠 Strong analytical mindset  
+- 🧹 Pays close attention to data quality  
+- 🚀 Always improving professional and technical skills  
+
+---
+
+### 🛠️ Skills & Tools
+Python • SQL • Pandas • NumPy • Matplotlib • Jupyter Notebook • Git • Excel
+
+---
+
+### 🔍 Featured Project
+📊 **TMDB Movies Data Analysis**  
+Exploring relationships between movie ratings, genres, and release trends using Python data analytics tools.
+
+---
+
+### 🤝 Connect With Me
+📩 (Julian.Ortiz1898@gmail.com)
+
+---
+
+<p align="center">Thanks for visiting my profile! ⭐</p>
+
 <!--
 **JOrtiz1898/JOrtiz1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
